@@ -1,4 +1,4 @@
-<h1 color="green"> Konflint </h1>
+<h1 color="green"> Konflint 🔎</h1>
 
 <h3>Konflint is a terminal-native config linter and auto-fixer</h3>
 
