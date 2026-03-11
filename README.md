@@ -18,7 +18,11 @@ Konflint helps developers catch configuration mistakes before they break deploym
 - Fast and developer-friendly
 
 
-<!-- ## Installation -->
+## Installation
+Install using Go:
+```bash
+go install github.com/rahulp0817/konflint@latest
+```
 
 ## Verify installation
 To verify that Konflint is installed correctly, run the following command in your terminal:
