@@ -1,0 +1,18 @@
+# Go build outputs
+konflint
+konflint.exe
+
+# Go workspace
+bin/
+dist/
+
+# Dependency directories (rarely used now but safe)
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
