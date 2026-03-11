@@ -1,5 +1,6 @@
-<h1 color="green"> Konflint </h1>
-
+<!-- <h1 color="green"> Konflint </h1>
+ -->
+ ![Konflint](https://img.shields.io)
 <h2>Konflint is a terminal-native config linter and auto-fixer</h2>
 
 It understands what kind of file you're writing, like Kubernetes, Docker Compose,
