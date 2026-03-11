@@ -32,3 +32,4 @@ Show help:
 ```bash
 konflint --help
 ```
+<p align="center">Made with ❤️ Rahul Pradhan</p>
