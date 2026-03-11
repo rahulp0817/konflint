@@ -1,5 +1,5 @@
-# Konflint
-<h1>Konflint is a terminal-native config linter and auto-fixer.</h1>
+<h1 align="center"> Konflint </h1>
+<h2>Konflint is a terminal-native config linter and auto-fixer</h2>
 
 It understands what kind of file you're writing, like Kubernetes, Docker Compose,
 GitHub Actions, Terraform, and provides:
