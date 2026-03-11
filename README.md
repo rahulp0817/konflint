@@ -1,26 +1,20 @@
 # Konflint
-Konflint is a terminal-native config linter and auto-fixer.
+<h1>Konflint is a terminal-native config linter and auto-fixer.</h1>
 
 It understands what kind of file you're writing, like Kubernetes, Docker Compose,
 GitHub Actions, Terraform, and provides:
 
 - Human-readable errors 
-
 - Plain-English explanations 
-
 - Automatic fixes right in your terminal
 
 Konflint helps developers catch configuration mistakes before they break deployments.
 
 ## Features
 - Detects configuration file types automatically
-
 - Explains errors in plain English
-
 - Suggests or applies fixes
-
 - Terminal-native CLI tool
-
 - Fast and developer-friendly
 
 
