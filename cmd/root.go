@@ -28,9 +28,9 @@ var rootCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println(success.Render("Konflint Installed Successfully! 🎉"))
 		fmt.Println()
-		fmt.Println("Run 'konflint --version' to see the version.")
-		fmt.Println("Run 'konflint validate deployment.yaml' to lint a file.")
-		fmt.Println("Run 'konflint validate deployment.yaml --fix' to fix issues automatically.")
+		fmt.Println("\nTry Commands:")
+		fmt.Println("  konflint --version")
+		fmt.Println("  konflint validate <File_Name>")
 		fmt.Println()
 		fmt.Println("Run 'konflint --help' to see available commands.")
 	},

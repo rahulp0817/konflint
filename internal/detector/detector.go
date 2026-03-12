@@ -21,7 +21,7 @@ const (
 	Unknown              FileType = "unknown"
 )
 
-// Labels shown in CLI output
+// Labels
 var Labels = map[FileType]string{
 	KubernetesDeployment: "Kubernetes Deployment (apps/v1)",
 	KubernetesService:    "Kubernetes Service",
