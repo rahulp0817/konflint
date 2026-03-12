@@ -1,14 +1,4 @@
-<!-- # Konflint 🔎 -->
-
-<h1 align="center">
-  _  __            __ _         _  
- | |/ /___  _ __  / _| (_)_ __ | |_ 
- | ' // _ \| '_ \| |_| | | '_ \| __|
- | . \ (_) | | | |  _| | | | | | |_ 
- |_|\_\___/|_| |_|_| |_|_|_| |_|\__|
- 
- Konflint - Deployment Intelligence CLI Tool
-</h1>
+# Konflint 🔎
 
 Konflint is a terminal-native config linter and auto-fixer. 
 It understands what kind of file you're writing, like Kubernetes, Docker Compose,
